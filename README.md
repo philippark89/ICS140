@@ -1,1 +1,1 @@
-ICS140
+ICS140 Computational Thinking with Programming Fall 19'
